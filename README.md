@@ -22,6 +22,6 @@ I am **Shivam Pandey** aka. **_ShivamPR21_** .
 <br />
 <br />
 
-[![shivampr21's github stats](https://github-readme-stats-shivampr21.vercel.app/api?username=shivampr21&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/shivampr21)
+[![shivampr21's github stats](https://github-readme-stats.vercel.app/api?username=shivampr21&count_private=true&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/shivampr21)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampr21&count_private=true&show_icons=true&layout=compact&theme=vue&langs_count=10&hide=jupyter%20notebook)](https://github.com/shivampr21)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivampr21&" alt="shivampr21" />

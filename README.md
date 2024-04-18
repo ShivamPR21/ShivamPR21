@@ -10,10 +10,10 @@ I am **Shivam Pandey** aka. **_ShivamPR21_** .
 
 ### Languages, Frameworks and Tools:
 <img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" />
 <img align="left" alt="RustLang" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
 <img align="left" alt="TensorFlow" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="PyTorch" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-<img align="left" alt="Tensorflow" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="JAX" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" />
 <img align="left" alt="XLA" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1579659734386360326/RyfjERXi_400x400.jpg" />
 <img align="left" alt="Docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />

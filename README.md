@@ -4,7 +4,7 @@ I am **Shivam Pandey** aka. **_ShivamPR21_** .
 
 <img src="https://komarev.com/ghpvc/?username=shivampr21&color=blue&style=flat-square" align="right" />
 
-- 🔭 I’m currently working on Representation Learning, Generative Modelling and Verification of Neural Networks.
+- 🔭 I’m Shivam Pandey, a tech explorer dedicated to advancing AI’s explainability and its ability to generalize across tasks with minimal data.
 - 💬 Details about my work [here](https://shivampr21.github.io/) and ask me anything about my code and research [here](https://github.com/shivampr21/shivampr21/issues).
 
 
